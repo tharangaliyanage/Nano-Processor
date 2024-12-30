@@ -1,0 +1,38 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Cipla 1/Downloads/Group32Nanoprocessor/Lab9Dummy2/Lab9Dummy2.srcs/sources_1/new/AU.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity AU
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Cipla 1/Downloads/Group32Nanoprocessor/Lab9Dummy2/Lab9Dummy2.srcs/sources_1/imports/UOM_CS1050/Lab4/Lab4.srcs/sources_1/new/Decoder_2_to_4.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Decoder_2_to_4
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Cipla 1/Downloads/Group32Nanoprocessor/Lab9Dummy2/Lab9Dummy2.srcs/sources_1/imports/UOM_CS1050/Lab4/Lab4.srcs/sources_1/new/Decoder_3_to_8.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Decoder_3_to_8
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Cipla 1/Downloads/Group32Nanoprocessor/Lab9Dummy2/Lab9Dummy2.srcs/sources_1/imports/UOM_CS1050/Lab3/Lab3.srcs/sources_1/new/FA.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity FA
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Cipla 1/Downloads/Group32Nanoprocessor/Lab9Dummy2/Lab9Dummy2.srcs/sources_1/imports/From Chinthani/Ins_Decoder.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Ins_Decoder
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Cipla 1/Downloads/Group32Nanoprocessor/Lab9Dummy2/Lab9Dummy2.srcs/sources_1/imports/new/LUT_16_7.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity SevenSeg_LUT_16_7
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Cipla 1/Downloads/Group32Nanoprocessor/Lab9Dummy2/Lab9Dummy2.srcs/sources_1/new/Mux_2_to_1_3Bit.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Mux_2_to_1_3Bit
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Cipla 1/Downloads/Group32Nanoprocessor/Lab9Dummy2/Lab9Dummy2.srcs/sources_1/new/Mux_2_to_1_4Bit.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Mux_2_to_1_4Bit
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Cipla 1/Downloads/Group32Nanoprocessor/Lab9Dummy2/Lab9Dummy2.srcs/sources_1/imports/From Chinthani/Mux_8_to_1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Mux_8_to_1
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Cipla 1/Downloads/Group32Nanoprocessor/Lab9Dummy2/Lab9Dummy2.srcs/sources_1/new/Mux_8way_4bit.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Mux_8way_4bit
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Cipla 1/Downloads/Group32Nanoprocessor/Lab9Dummy2/Lab9Dummy2.srcs/sources_1/new/Nanoprocessor.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Nanoprocessor
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Cipla 1/Downloads/Group32Nanoprocessor/Lab9Dummy2/Lab9Dummy2.srcs/sources_1/new/PC_3Bit.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity PC_3Bit
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Cipla 1/Downloads/Group32Nanoprocessor/Lab9Dummy2/Lab9Dummy2.srcs/sources_1/new/Program_ROM_LUT_8_12.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Program_ROM_LUT_8_12
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Cipla 1/Downloads/Group32Nanoprocessor/Lab9Dummy2/Lab9Dummy2.srcs/sources_1/new/RCA_3.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity RCA_3
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Cipla 1/Downloads/Group32Nanoprocessor/Lab9Dummy2/Lab9Dummy2.srcs/sources_1/imports/UOM_CS1050/Lab3/Lab3.srcs/sources_1/new/RCA_4.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity RCA_4
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Cipla 1/Downloads/Group32Nanoprocessor/Lab9Dummy2/Lab9Dummy2.srcs/sources_1/imports/UOM_CS1050/Lab6/Lab6.srcs/sources_1/new/Reg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Reg
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Cipla 1/Downloads/Group32Nanoprocessor/Lab9Dummy2/Lab9Dummy2.srcs/sources_1/imports/From Chinthani/Reg_Bank.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Reg_Bank
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Cipla 1/Downloads/Group32Nanoprocessor/Lab9Dummy2/Lab9Dummy2.srcs/sources_1/imports/UOM_CS1050/Lab5/Lab5.srcs/sources_1/new/Slow_Clk.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Slow_Clk
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Cipla 1/Downloads/Group32Nanoprocessor/Lab9Dummy2/Lab9Dummy2.srcs/sim_1/new/Nanoprocessor_TB.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Nanoprocessor_TB

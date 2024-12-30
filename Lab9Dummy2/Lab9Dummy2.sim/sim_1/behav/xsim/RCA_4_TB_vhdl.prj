@@ -1,0 +1,9 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Lab9Dummy2.srcs/sources_1/imports/UOM_CS1050/Lab3/Lab3.srcs/sources_1/new/FA.vhd" \
+"../../../../Lab9Dummy2.srcs/sources_1/imports/UOM_CS1050/Lab3/Lab3.srcs/sources_1/new/HA.vhd" \
+"../../../../Lab9Dummy2.srcs/sources_1/imports/UOM_CS1050/Lab3/Lab3.srcs/sources_1/new/RCA_4.vhd" \
+"../../../../Lab9Dummy2.srcs/sim_1/new/RCA4_TB.vhd" \
+
+# Do not sort compile order
+nosort
